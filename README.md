@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lrcarrera✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
-- 👀 I’m interested in software engineering + cryptospace.✨✨✨✨✨✨✨✨✨✨✨
-- 🌱 I’m currently learning software architecture + Rust.✨✨✨✨✨✨✨✨✨✨✨✨
-- 💞️ I’m looking to collaborate on blockchain projects.✨✨✨✨.✨✨✨✨✨✨✨✨✨
-- 📫 Reach me in LinkedIn on https://www.linkedin.com/in/lrcarrera/✨✨✨✨✨✨✨✨
+- 👋 Hi, I’m @lrcarrera
+- 👀 I’m interested in software engineering + cryptospace.
+- 🌱 I’m currently learning software architecture + Rust.
+- 💞️ I’m looking to collaborate on blockchain projects.
+- 📫 Reach me in LinkedIn on https://www.linkedin.com/in/lrcarrera/
